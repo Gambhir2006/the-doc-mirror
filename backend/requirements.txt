@@ -43,6 +43,7 @@ opentelemetry-api==1.45.0
 packaging==26.3
 passlib==1.7.4
 pluggy==1.6.0
+python-jose[cryptography]==3.5.0
 prompt_toolkit==3.0.53
 proto-plus==1.29.0
 protobuf==7.36.2
